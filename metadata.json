@@ -1,0 +1,6 @@
+{
+  "name": "VM Refrigeration",
+  "description": "AWcomfort Heating, Cooling & Commercial Services across Mississauga and the Greater Toronto Area (GTA). TSSA Registered Contractor with 8 years of experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
